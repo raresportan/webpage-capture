@@ -5,7 +5,7 @@ const usage = `
 The URL was not provided or is incorrect
 
 Example:
-node capture https://news.ycombinator.com/
+node capture https://livejs.netlify.app
 `;
 
 
